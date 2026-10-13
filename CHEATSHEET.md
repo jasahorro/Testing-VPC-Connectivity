@@ -1,5 +1,7 @@
 # Testing VPC Connectivity: Cheat Sheet
 
+> 📚 **Part 5 of 9** in my [AWS VPC Series](https://github.com/jasahorro/AWS-VPC-Series) · ← Previous: [Launching VPC Resources](https://github.com/jasahorro/Launching-VPC-Resources/blob/main/CHEATSHEET.md) · Next: [VPC Peering](https://github.com/jasahorro/VPC-Peering/blob/main/CHEATSHEET.md) →
+
 Quick-review notes for the NextWork **Testing VPC Connectivity** project.
 
 ## Contents
